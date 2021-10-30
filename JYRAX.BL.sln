@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JYRAX.BL", "JYRAX.BL.csproj", "{AD8207CC-DDD9-4D3F-BA0E-978FCB48A3FC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F9BEEDE9-4C6E-48FA-99B6-66A1D9C7A42D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JYRAX.BLTest", "..\Tests\JYRAX.BLTest\JYRAX.BLTest.csproj", "{AC31FF80-EAF1-484F-A60B-3F735DDE23F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,9 +19,16 @@ Global
 		{AD8207CC-DDD9-4D3F-BA0E-978FCB48A3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD8207CC-DDD9-4D3F-BA0E-978FCB48A3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD8207CC-DDD9-4D3F-BA0E-978FCB48A3FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC31FF80-EAF1-484F-A60B-3F735DDE23F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC31FF80-EAF1-484F-A60B-3F735DDE23F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC31FF80-EAF1-484F-A60B-3F735DDE23F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC31FF80-EAF1-484F-A60B-3F735DDE23F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AC31FF80-EAF1-484F-A60B-3F735DDE23F9} = {F9BEEDE9-4C6E-48FA-99B6-66A1D9C7A42D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {18F1F875-B3CE-4972-95A6-C182BD2C9664}

@@ -1,0 +1,6 @@
+C:\Users\hp\Documents\Classroom\Tutorials\Debra Kurata OOP\JYRAX.BL\bin\Debug\JYRAX.BL.dll
+C:\Users\hp\Documents\Classroom\Tutorials\Debra Kurata OOP\JYRAX.BL\bin\Debug\JYRAX.BL.pdb
+C:\Users\hp\Documents\Classroom\Tutorials\Debra Kurata OOP\JYRAX.BL\obj\Debug\JYRAX.BL.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Classroom\Tutorials\Debra Kurata OOP\JYRAX.BL\obj\Debug\JYRAX.BL.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Classroom\Tutorials\Debra Kurata OOP\JYRAX.BL\obj\Debug\JYRAX.BL.dll
+C:\Users\hp\Documents\Classroom\Tutorials\Debra Kurata OOP\JYRAX.BL\obj\Debug\JYRAX.BL.pdb
