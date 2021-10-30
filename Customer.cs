@@ -51,21 +51,7 @@ namespace JYRAX.BL
         public static int instanceCount { get; set; }
 
 
-        //Methods
-        //Retrieve one Customer
-        public Customer Retrieve(int customerId)
-        {
-            //To retrieve a customer from ID
-            return new Customer();
-        }
-
-        //Retrieve All Customer
-        public List<Customer> Retrieve()
-        {
-            //To retrieve a customer from ID
-            return new List<Customer>();
-        }
-        
+       
         //Validate the Data;
         public bool Validate()
         {
