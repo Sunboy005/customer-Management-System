@@ -8,6 +8,14 @@ namespace JYRAX.BL
 {
     public class Customer
     {
+        public Customer()
+        {
+
+        }
+        public Customer(int customerId)
+        {
+            CustomerId = customerId;
+        }
         public string FirstName { get; set; }
 
         private string _lastName;
